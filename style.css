@@ -138,6 +138,7 @@ form .option:after {
 .page .signup{
     position: relative;
     border: 1px solid #b6b6b6;
+    margin-top: 25px;
     border-radius: 2px;
     width: 90%;
     left: 50%;
